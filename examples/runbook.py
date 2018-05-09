@@ -1,4 +1,4 @@
-#! /apollo/bin/env python
+#! /usr/bin/python
 
 """Copyright 2017-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
